@@ -1,13 +1,13 @@
 body {
-    background-color: white;
+    background-color: lightblue;
     font-family: times, Arial, sans-serif;
-    color: black;
+    color: purple;
 
 }
 
 h1,h2,h3 {
     font-weight: bold;
-    color: #474747;
+    color: #5C0000;
 }
 
 img {
