@@ -1,1 +1,1 @@
-# discussion_wk3
+# Adams Deng 's week3 inclass discussion repo
